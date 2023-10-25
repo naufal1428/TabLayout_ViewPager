@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TabLayoutViewPager2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+         <item name="colorPrimary">@color/blue</item>
+    </style>
+
+    <style name="Base.Theme.TabLayoutViewPager2.withActionBar" parent="Theme.Material3.DayNight">
+        <!-- Customize your dark theme here. -->
+         <item name="colorPrimary">@color/blue</item>
+    </style>
+</resources>
